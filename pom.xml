@@ -50,6 +50,14 @@
 			<artifactId>spring-security-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>io.github.easy-do</groupId>
+			<artifactId>easy-do-oauth2-resources-starter</artifactId>
+			<version>1.0.1</version>
+		</dependency>
+
+
 	</dependencies>
 
 	<build>
