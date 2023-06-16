@@ -1,5 +1,5 @@
 package com.richardcalin.planitpoker.controller;
-import org.springframework.beans.factory.annotation.Autowired;
+
 import org.springframework.security.oauth2.client.OAuth2AuthorizedClient;
 import org.springframework.security.oauth2.client.OAuth2AuthorizedClientService;
 import org.springframework.security.oauth2.core.OAuth2AccessToken;
