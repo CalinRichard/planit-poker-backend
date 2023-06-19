@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequiredArgsConstructor
 public class LoginController {
-    
+
     @GetMapping("/login")
     public String login() {
         return "redirect:/login/oauth2/code/google";
